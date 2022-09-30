@@ -39,6 +39,7 @@ for item_name, item_href in for_all_prod:
     src_1 = req_1.text
     print(src_1)
 
+# prodolzhit'
     
 
 
